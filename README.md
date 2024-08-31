@@ -63,6 +63,6 @@ Analytical, motivated, and hard-working Python Developer with extensive experien
 
 ## Certifications
 - [Certified Django Developer (VS-1061) (id-63148)](https://www.vskills.in/certification/98001-certified-django-developer-jap-dave)
-
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cf50a46a-b51f-4b99-befd-14f62ca039bc/linked_in?t=sifhxa)
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/japdave)
