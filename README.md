@@ -28,3 +28,7 @@ Previous project work includes eddi (an education platform with multiple user ro
 ## Contact
 
 [Email](mailto:japdavev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/japdave) · [Upwork](https://www.upwork.com/freelancers/~01399c7998f2dacccd)
+
+## Reviewing the code
+
+Start with the setup and test instructions in each project README. The headless SaaS and FastAPI examples include runnable API regression tests; the modular SaaS repository separates local checks from its PostgreSQL-dependent test suite. CI templates are provided in each project's `docs/ci` directory.
