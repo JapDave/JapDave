@@ -1,68 +1,30 @@
-# Hi there, I'm Jap Dave 👋
+# Jap Dave
 
-I'm a Python Developer with over three years of experience in designing, debugging, and troubleshooting applications. My expertise includes Django, Flask, and FastAPI frameworks.
+### Python Backend Developer · 5 years of experience
 
-## Objective
-Analytical, motivated, and hard-working Python Developer with extensive experience designing, debugging, and troubleshooting applications using Flask and Python. Hoping to use my advanced development skills to contribute to impactful projects.
+I build backend APIs and business applications with Python, Django REST Framework and FastAPI. My work includes multi-role platforms, ERP workflows, payment integrations and practical LLM integrations.
 
-## Skills
-- Proficient in Python programming language with strong knowledge of object-oriented programming concepts.
-- Extensive experience working with Django web framework, including building and maintaining web applications.
-- Solid understanding of Flask microframework for developing lightweight and modular web applications.
-- Strong knowledge of RESTful architecture and experience in building RESTful APIs using frameworks like Django REST Framework or Flask-RESTful.
-- Expertise in designing and developing database models using Django ORM, SQLAlchemy, and Mongoengine.
-- Familiarity with version control systems like Git for collaborative development and code management.
-- Knowledge of deployment and hosting of Python web applications using platforms like Heroku and AWS.
-- Strong problem-solving skills and ability to debug and optimize code for performance.
-- Understanding of software development best practices, including code documentation, code reviews, and continuous integration.
-- Up-to-date with the latest trends and advancements in Python, Django, Flask, and REST frameworks.
-- Excellent communication skills to effectively communicate with stakeholders and understand project requirements.
+Based in Bhavnagar, India. Available for freelance projects and contract backend work.
 
-## Projects
+## Selected public code
 
-### [Doosit Mobile Application](https://doosit.app)
-- **Tech Stack**: React-Native (Front End), Python + Django + PostgreSQL (Back End)
-- Designed, developed, and maintained APIs using Django Rest Framework.
-- Implemented database models using Django ORM.
-- Integrated external services and APIs, including payment gateways like Stripe and Plaid.
-- Optimized performance bottlenecks for a smooth user experience.
+| Project | What it demonstrates |
+| --- | --- |
+| [Modular SaaS backend](https://github.com/JapDave/Saas-Solution) | Domain modules for accounts, organizations, roles, subscriptions and agent configuration; Docker and OpenAPI tooling. |
+| [Headless SaaS API](https://github.com/JapDave/headless_saas) | Organization-scoped APIs, role-based access, JWT authentication and automated API tests. |
+| [FastAPI authentication and posts](https://github.com/JapDave/Fastapi_task) | A compact reference API with password hashing, ownership-scoped CRUD and regression tests. |
 
-### [WUTestPrep Mobile Application](https://wutestprep.com/)
-- **Tech Stack**: React-Native (Front End), Python + Flask + Firebase Realtime-Database (Back End)
-- Developed and maintained APIs using Flask framework.
-- Managed Firebase real-time database.
-- Performed analytics for user performance and maintained leaderboards.
-- Integrated external services like Twilio for SMS functionalities.
+These repositories are code examples. Client work and private projects are discussed separately where sharing is permitted.
 
-### [Eddi Education Platform](https://www.eddi.nu/)
-- **Tech Stack**: React (Front End), Python + Django + MySQL (Back End)
-- Developed and maintained APIs using Django Rest Framework.
-- Managed user roles and permissions.
-- Integrated third-party services like Stripe.
-- Optimized API response times and system efficiency.
-- Maintained various AWS services like S3 and SES.
+## Experience and tools
 
-### Inventivebyte
-- **Tech Stack**: React (Front End), Python + Flask + MongoDB (Back End)
-- Developed REST APIs using Flask framework.
-- Managed MongoDB using Mongoengine ORM.
-- Integrated payment gateways like Plaid and Stripe.
-- Optimized performance bottlenecks.
-- Maintained various AWS services like S3, SES, and Route53.
+- **Backend:** Python, Django, Django REST Framework, FastAPI, Flask
+- **Data and delivery:** PostgreSQL, Redis, Docker, AWS, Git
+- **Application work:** API integrations, authentication, payments, ERP/CRM workflows, React integration
+- **AI integrations:** LLM APIs and working knowledge of retrieval-augmented generation
 
-### Mentaltram
-- **Tech Stack**: React (Front End), Python + Flask + MongoDB (Back End)
-- Developed REST APIs using Flask framework.
-- Managed MongoDB using Mongoengine ORM.
-- Integrated payment gateways like Stripe.
-- Optimized performance bottlenecks.
-- Maintained various AWS services like S3, SES, and Route53.
+Previous project work includes eddi (an education platform with multiple user roles and Stripe), Ibex ERP and Eleza (email/document generation using LLMs).
 
-## Education
-- **B.Tech in Information & Technology**, Gujarat, India
+## Contact
 
-## Certifications
-- [Certified Django Developer (VS-1061) (id-63148)](https://www.vskills.in/certification/98001-certified-django-developer-jap-dave)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cf50a46a-b51f-4b99-befd-14f62ca039bc/linked_in?t=sifhxa)
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/japdave)
+[Email](mailto:japdavev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/japdave) · [Upwork](https://www.upwork.com/freelancers/~01399c7998f2dacccd)
